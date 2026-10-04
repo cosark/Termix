@@ -363,6 +363,8 @@ You can run the Termix server on a VPS instead of inside your own network. If Te
 
 [GINERNET](https://docs.termix.site/install/ginernet) sponsors Termix, and the docs have a step by step guide for deploying to their VPS platform.
 
+[RepoCloud](https://repocloud.io/details/Termix/) offers one-click cloud deployment of Termix on a dedicated VPS.
+
 <br />
 
 ## Telemetry
